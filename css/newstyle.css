@@ -1,0 +1,89 @@
+@font-face {
+    font-family: "Kenzo"; 
+    src: url(Kenzo Regular.ttf);
+}
+
+
+
+.wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 800px;
+    
+}
+.banner{
+    width: 100%;
+    height: 600px;
+    background-image: url(images/banner1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#banner_heading{
+    font-family: "Bromello";
+    font-size: 800%;
+    color: white;
+    text-align: center;
+    width: 100%;
+    padding-top: 150px;
+    padding-bottom: 0;
+  
+    
+   
+}
+
+.headings1{
+    text-align: center;
+    text-transform: capitalize;
+    
+}
+.seemore:hover{
+    color: dodgerblue;
+}
+.part_two{
+    display: none;
+}
+.paragraph1{
+    text-align:justify;line-height:2;
+}
+
+.first_intro{
+    margin-bottom: 50px;
+}
+.motto{
+    margin-top: 50px;
+}
+.parallax1{
+    height: 900px;
+   background: url(images/parallax_image.jpg)fixed center;
+    background-size: cover;
+    width: 100%;
+    
+}
+.parallax1 .parallax_content{
+    color: white;
+    padding-top: 120px;
+    padding-bottom: 50px;
+}
+
+
+.top{
+    margin-top: 50px;
+}
+section{
+    margin-bottom: 50px;
+}
+  .mid{
+      text-align: center;
+            padding-top: 14px;
+         
+        }
+    
+        a:hover{
+            color:whitesmoke;
+        }
+.footer{
+    background-color: #292929;
+    height: 
+}
